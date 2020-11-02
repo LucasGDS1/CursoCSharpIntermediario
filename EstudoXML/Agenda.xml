@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<agenda>
+  <titulo>Agenda de Contatos</titulo>
+  <contatos>
+    <empresas>
+      <empresa id="1" name="Empresa LTDA" dataAbertura="25/10/2020"/>
+      <empresa id="2" name="Empresa EIRELI" dataAbertura="26/10/2020" />
+      <empresa id="3" name="Empresa de TI" dataAbertura="27/10/2020"/>
+    </empresas>
+    <pessoas>
+      <pessoa id="1" name="PEDRINHO" idade="20"/>
+      <pessoa id="2" name="JOÃOZINHO" idade="15"/>
+      <pessoa id="3" name="MARQUINHOS" idade="30"/>
+    </pessoas>
+  </contatos>
+</agenda>
