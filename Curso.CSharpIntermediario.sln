@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDelegateGenerico", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExRepositorioGenerico", "ExRepositorioGenerico\ExRepositorioGenerico.csproj", "{86BF17C2-2F08-43D7-96A2-E3C9FB6DD474}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio01", "Exercicio01", "{0A27ED08-A65F-4CA5-9ABC-B456629D840F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F9B548A1-DA68-4175-AA2C-41834A6B5FE5} = {A0EEA167-6DBB-4A08-98F1-353FA80CD769}
 		{AAE999E1-A718-4FA0-8B1D-53E3A54664A9} = {F9B548A1-DA68-4175-AA2C-41834A6B5FE5}
+		{86BF17C2-2F08-43D7-96A2-E3C9FB6DD474} = {0A27ED08-A65F-4CA5-9ABC-B456629D840F}
+		{0A27ED08-A65F-4CA5-9ABC-B456629D840F} = {A0EEA167-6DBB-4A08-98F1-353FA80CD769}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F42E546-905B-455B-9E6E-98081D757195}
