@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios", "Exercicios", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio02", "Exercicio02", "{F9B548A1-DA68-4175-AA2C-41834A6B5FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGenerico", "DelegateGenerico\DelegateGenerico.csproj", "{AAE999E1-A718-4FA0-8B1D-53E3A54664A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDelegateGenerico", "DelegateGenerico\ExDelegateGenerico.csproj", "{AAE999E1-A718-4FA0-8B1D-53E3A54664A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExRepositorioGenerico", "ExRepositorioGenerico\ExRepositorioGenerico.csproj", "{86BF17C2-2F08-43D7-96A2-E3C9FB6DD474}"
 EndProject

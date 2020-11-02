@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Linq;
 
-namespace DelegateGenerico
+namespace ExDelegateGenerico
 {
     class Program
     {
