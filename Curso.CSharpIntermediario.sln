@@ -11,17 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios", "Exercicios", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio02", "Exercicio02", "{F9B548A1-DA68-4175-AA2C-41834A6B5FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDelegateGenerico", "DelegateGenerico\ExDelegateGenerico.csproj", "{AAE999E1-A718-4FA0-8B1D-53E3A54664A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExDelegateGenerico", "DelegateGenerico\ExDelegateGenerico.csproj", "{AAE999E1-A718-4FA0-8B1D-53E3A54664A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExRepositorioGenerico", "ExRepositorioGenerico\ExRepositorioGenerico.csproj", "{86BF17C2-2F08-43D7-96A2-E3C9FB6DD474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExRepositorioGenerico", "ExRepositorioGenerico\ExRepositorioGenerico.csproj", "{86BF17C2-2F08-43D7-96A2-E3C9FB6DD474}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio01", "Exercicio01", "{0A27ED08-A65F-4CA5-9ABC-B456629D840F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio03", "Exercicio03", "{5BA11AD5-F6C2-42DF-A835-15834722B5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExInteraArraysETrocaValores", "ExInteraArraysETrocaValores\ExInteraArraysETrocaValores.csproj", "{ACF1F293-DA63-4ECC-87D0-F6A28FFA32F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExInteraArraysETrocaValores", "ExInteraArraysETrocaValores\ExInteraArraysETrocaValores.csproj", "{ACF1F293-DA63-4ECC-87D0-F6A28FFA32F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoXML", "EstudoXML\EstudoXML.csproj", "{ED0AD4E6-96C0-434C-B89A-95E2515770FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstudoXML", "EstudoXML\EstudoXML.csproj", "{ED0AD4E6-96C0-434C-B89A-95E2515770FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaWithADONET", "AgendaWithADONET\AgendaWithADONET.csproj", "{EEC5D1A9-53AE-4D86-BFBF-287815FCC0F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{ED0AD4E6-96C0-434C-B89A-95E2515770FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED0AD4E6-96C0-434C-B89A-95E2515770FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED0AD4E6-96C0-434C-B89A-95E2515770FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC5D1A9-53AE-4D86-BFBF-287815FCC0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC5D1A9-53AE-4D86-BFBF-287815FCC0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC5D1A9-53AE-4D86-BFBF-287815FCC0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC5D1A9-53AE-4D86-BFBF-287815FCC0F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
