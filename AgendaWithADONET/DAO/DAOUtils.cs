@@ -9,6 +9,11 @@ namespace AgendaWithADONET.DAO
     //Classe para a criação dos componentes do DataSet do ADO.NET
     public class DAOUtils
     {
+
+        public DAOUtils()
+        {
+            
+        }
         //Componente para a executar a conexão com o banco de dados;
         public static DbConnection GetConnection()
         {
